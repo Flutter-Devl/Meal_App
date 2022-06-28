@@ -2,6 +2,14 @@
 
 This is basic recipe application where you get recipe of different types of food like italian, chinese and so on. A Flutter project to understand multi screen routing concept.
 
+In this App I use:
+
+Stack
+Positioned
+TextField
+Drawer
+Page Navigation
+Tab Bar
 
 
 ## How to use
