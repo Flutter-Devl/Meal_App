@@ -4,6 +4,7 @@ This is basic recipe application where you get recipe of different types of food
 
 ## How to use
 1.You can find different recipies.
+
 2.Filter them and add to you favorites.
 
 
