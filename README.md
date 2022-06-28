@@ -4,12 +4,7 @@ This is basic recipe application where you get recipe of different types of food
 
 In this App I use:
 
-Stack
-Positioned
-TextField
-Drawer
-Page Navigation
-Tab Bar
+Drawer, Page Navigation, Tab Bar
 
 
 ## How to use
