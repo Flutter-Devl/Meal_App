@@ -1,6 +1,8 @@
 # Meal_App
 
-This is basic recipe application where you get recipe of different types of food like italian, chinese and so on. 
+This is basic recipe application where you get recipe of different types of food like italian, chinese and so on. A Flutter project to understand multi screen routing concept.
+
+
 
 ## How to use
 1.You can find different recipies.
