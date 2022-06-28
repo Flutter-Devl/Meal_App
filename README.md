@@ -1,6 +1,11 @@
 # Meal_App
 
-A new Flutter project.
+This is basic recipe application where you get recipe of different types of food like italian, chinese and so on. 
+
+## How to use
+1.You can find different recipies.
+2.Filter them and add to you favorites.
+
 
 ## Getting Started
 
